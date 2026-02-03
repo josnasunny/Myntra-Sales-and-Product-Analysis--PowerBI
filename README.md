@@ -1,7 +1,7 @@
 # Myntra-Sales-and-Product-Analysis--PowerBI
 End-to-end Power BI project analyzing Myntra’s sales and product performance using a single dataset, featuring interactive dashboards for brand, category, customer, and regional insights.
 
-## 📌 Project Overview
+##  Project Overview
 This project presents an end-to-end Sales and Product Analysis for Myntra using Power BI. Both dashboards are built within a single Power BI report
 using a combined dataset enabling consistent and integrated business insights.
 
@@ -9,14 +9,14 @@ The report contains:
 - Product Analysis Dashboard
 - Sales Analysis Dashboard
 
-## 🎯 Business Objectives
+##  Business Objectives
 - Analyze overall sales performance and revenue trends
 - Identify top-performing brands and products
 - Understand customer behavior across age groups
 - Evaluate discount patterns across product sub-categories
 - Compare sales performance by category, state, and time
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Power BI
 - Power Query
 - DAX
@@ -24,7 +24,7 @@ The report contains:
 
 ---
 
-## 📊 Product Analysis Dashboard
+## Product Analysis Dashboard
 ### Key KPIs
 - **Top Brand:** H&M
 - **Top Product:** Jeans
@@ -39,7 +39,7 @@ The report contains:
 
 ---
 
-## 📈 Sales Analysis Dashboard
+## Sales Analysis Dashboard
 ### Key KPIs
 - **Total Sales:** 1.88M
 - **Top Brand by Sales:** Puma
@@ -53,19 +53,19 @@ The report contains:
 
 ---
 
-## 📁 Repository Contents
+##  Repository Contents
 - `Myntra_Dashboard.pbix` – Power BI report containing both dashboards
 - Combined sales and product dataset
 - Dashboard preview images
 - Project documentation
 
-## 🚀 Use Case
+##  Use Case
 This dashboard can be used by:
 - Business analysts for sales and product performance tracking
 - Category managers for inventory and pricing decisions
 - Marketing teams for customer segmentation analysis
 - Leadership teams for strategic planning
 
-## 👤 Author
+##  Author
 Josna Sunny  
 
